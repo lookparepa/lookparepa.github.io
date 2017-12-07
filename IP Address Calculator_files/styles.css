@@ -34,8 +34,8 @@ input[type="radio"]{
 }
 
 footer {
-  background-color: #e8637c;
-  color: white;
+  background-color: white;
+  color: black;
   padding: 10px;
   position: absolute;
   bottom: 0px;
